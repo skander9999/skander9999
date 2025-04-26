@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my linktree
+
 - 🌱 I’m currently learning the fundamentals of HTML and CSS.
 - 👯 I’m looking to collaborate large projects.
 - 🤔 I’m looking for help with CSS
